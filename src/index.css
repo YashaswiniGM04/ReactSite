@@ -1,0 +1,54 @@
+body {
+    background-color: #282D35;
+    margin: 0%;
+    font-family: 'Inter', sans-serif;
+}
+
+.img-ele {
+    width: 40px;
+    margin-right: 5px;
+}
+
+.nav-items {
+    padding: 10px;
+    background-color: #21222A;
+    color: #DEEBF8;
+    display: flex;
+    align-items: center;
+}
+
+.ReactFacts {
+    margin-right: auto;
+    color: #61DAFB;
+}
+
+.fun-Facts {
+    color: white;
+}
+
+.main-list {
+    color:beige;
+    margin-top: 46px;
+    max-width:400px;
+    
+}
+
+.main-list li{
+    margin-bottom: 18px;
+
+}
+
+.main-list li::marker{
+    color:#61DAFB;
+    size: 4em;
+    
+}
+
+.main{
+    /* width:459px; */
+    margin-top: 57px ;
+    margin-left: 27px;
+    background-image: url("./ReactBackgnd.png");
+    background-repeat: no-repeat;
+    background-position:right;
+}
